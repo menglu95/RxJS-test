@@ -7,5 +7,5 @@ To fix them, you can use the follow statements.
 > cd src                                                                                                                       
 > node -r ems testrx.js
 
-Enjoy your RxJS.
-reference site url : https://www.tutorialspoint.com/rxjs/
+Enjoy your RxJS.                                                                                                               
+Reference site url : https://www.tutorialspoint.com/rxjs/
